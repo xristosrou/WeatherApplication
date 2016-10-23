@@ -1,1 +1,3 @@
-Υπήρξε πρόβλημα με το minsdk σχετικά με το appcompat κτλ οπότε αναγκάστηκα να το αφήσω 18 με το αποτέλεσμα  για εμένα τουλάχιστον να τρέχει μόνο σε emulator με api 18.Η εργασία γενικότερα έγινε με το eclipse.
+# WeatherApplication
+
+An android application made with eclipse , takes as imput city names and returns information about the wather using a restful api.
